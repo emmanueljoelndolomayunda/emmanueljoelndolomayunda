@@ -2,18 +2,23 @@
 
 ### Data Analyst | React Front-End Developer | Information Systems | IT Support
 
-I am an Information Systems professional based in Kinshasa, DR Congo, with a background in data analysis, business process design, web development, ERP systems and IT support.
+I am an Information Systems professional based in Kinshasa, DR Congo.
 
-I enjoy transforming business needs into practical digital solutions through data, process analysis and software development.
+My current work and learning focus on data analysis, front-end web development,
+information systems design, business process analysis and IT support.
+
+I enjoy transforming business needs into practical digital solutions through
+data, functional analysis and user-friendly web interfaces.
 
 ---
 
 ## 🚀 What I work on
 
 - 📊 Data Analysis
+- 📈 Excel, Power Query, Pivot Tables 
 - 💻 Front-End Development with React
-- 🏢 ERP & Information Systems Design
-- 🗄️ PostgreSQL & Data Management
+- 🧩 Information Systems Design
+- 🗂️ Business Process & Workflow Analysis
 - 🛠️ IT Support, Computer Maintenance & Repair
 - 🔊 Professional Audio Systems & Sound Engineering
 
@@ -21,78 +26,96 @@ I enjoy transforming business needs into practical digital solutions through dat
 
 ## 🛠️ Technologies & Tools
 
-**Data**
+### Data Analysis
 
-`Excel` `Power Query` `TCD` `PostgreSQL` `Python` `Jupyter`
+`Excel` `Power Query` `Pivot Tables` `Python` `Jupyter`
 
-**Front-End**
+### Databases
+
+`PostgreSQL` — currently deepening my practical knowledge
+
+### Front-End Development
 
 `React` `JavaScript` `HTML` `CSS` `Material UI` `Tailwind CSS`
 
-**IT & Infrastructure**
+### IT & Systems
 
-`Microsoft 365` `Windows` `MikroTik` `Hardware Maintenance`
+`Microsoft 365` `Windows` `MikroTik` `Computer Hardware Maintenance`
+
+### Professional Audio
+
+`Sound Systems` `Speaker Repair` `Speaker Design` `Audio Equipment Maintenance`
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Selected Projects
 
 ### 🏢 RLSYS Business
-**Retail & Supply Chain ERP — Functional Prototype**
+**ERP / Information System Project**
 
-ERP platform designed for retail, wholesale and distribution businesses.
+Design and front-end development of a business management platform focused on:
 
-Main areas:
 - Sales & POS
-- Inventory & Warehouses
-- Payments & Cash Management
-- Logistics & Deliveries
+- Inventory
+- Warehouses
+- Payments
+- Logistics
 - Users & Roles
-- Business Dashboards
+- Business dashboards
 
-**Technologies:** React, Material UI, FastAPI, PostgreSQL, Netlify, Render
+My work focuses mainly on functional design, user interfaces and information
+system structure.
+
+**Front-End:** React, Material UI
 
 ---
 
 ### 🏛️ SIGC-CES RDC
 **Information System Functional Design — In Progress**
 
-Functional design of an institutional information system covering:
-- Business processes
+Functional analysis and design of an institutional information system.
+
+Current work includes:
+
+- Process mapping
 - Roles and responsibilities
 - Documents
 - Workflows
+- Statuses
 - Validation circuits
 - Functional requirements
-
-**Focus:** Business Analysis, Process Mapping, Information Systems
 
 ---
 
 ### 🏥 GOSEN VISION
-**Healthcare ERP / Information System — In Progress**
+**Healthcare Information System Design — In Progress**
 
-Functional design of an integrated healthcare management system covering:
+Functional design of a healthcare management system covering:
+
 - Reception
 - Consultation
-- Medical archives
+- Archives
 - Pharmacy
 - Hospitalization
 - Surgery
 - Administration
 - Finance
-- Awareness & communication activities
-
-**Focus:** ERP Design, Business Analysis, Process Design
+- Awareness activities
 
 ---
 
 ### 🎓 UNIBAC Web Platform
 **React Front-End Project**
 
-Responsive institutional web platform developed to strengthen my practical experience with React and modern front-end development.
+Development of a responsive institutional web interface using React.
 
-**Technologies:** React, JavaScript, CSS, Material UI, Netlify
+This project helped me strengthen my practical skills in:
+
+- React components
+- Responsive interfaces
+- JavaScript
+- Material UI
+- Web deployment
 
 ---
 
@@ -103,7 +126,7 @@ Responsive institutional web platform developed to strengthen my practical exper
 - A2RC
 - RAL
 
-More repositories and technical documentation will be published progressively.
+Some projects are still under development and will be documented progressively.
 
 ---
 
@@ -132,6 +155,9 @@ Focus: Information Systems Design
 
 ---
 
-### 💡 Current focus
+### 📚 Currently improving
 
-Building professional projects combining **Data, Business Analysis, Information Systems and Web Development**.
+- Data Analysis
+- PostgreSQL
+- React Front-End Development
+- Information Systems Design
