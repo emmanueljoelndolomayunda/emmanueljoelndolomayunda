@@ -21,17 +21,13 @@ I enjoy transforming business needs into practical digital solutions through dat
 
 ## 🛠️ Technologies & Tools
 
-**Data & BI**
+**Data**
 
-`Excel` `Power Query` `SQL` `PostgreSQL` `Python` `Jupyter`
+`Excel` `Power Query` `TCD` `PostgreSQL` `Python` `Jupyter`
 
 **Front-End**
 
 `React` `JavaScript` `HTML` `CSS` `Material UI` `Tailwind CSS`
-
-**Backend & Systems**
-
-`FastAPI` `PostgreSQL` `REST APIs` `Information Systems`
 
 **IT & Infrastructure**
 
